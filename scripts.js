@@ -13,7 +13,7 @@ const importantDates =
 '<li> Paper submission deadline: 3 June 2026 </li>\n' +
 '<li> Notification of acceptance: <strike></strike> 15 July 2026 </li>\n' +
 '<li> Camera-ready submission: 31 July 2026 </li>\n'+
-'<li> JOWO workshop days co-located with FOIS 2025: 21-22 September 2026 </li>\n'+
+'<li> JOWO workshop days co-located with FOIS 2026: 21-22 September 2026 </li>\n'+
 '<li> FOMI workshop day: TBD </li>\n'
 
 
