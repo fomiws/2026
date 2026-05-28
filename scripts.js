@@ -10,8 +10,8 @@ const uploadPapersLink = "https://easychair.org/my/conference?conf=fois2026"
 const JOWOlink = "http://iaoa.org/jowo/";
 
 const importantDates = 
-'<li> Paper submission deadline: 3 June 2026 </li>\n' +
-'<li> Notification of acceptance: <strike></strike> 15 July 2026 </li>\n' +
+'<li> Paper submission deadline: <strike>3 June 2026</strike> 17 June 2026</li>\n' +
+'<li> Notification of acceptance:  15 July 2026 </li>\n' +
 '<li> Camera-ready submission: 31 July 2026 </li>\n'+
 '<li> JOWO workshop days co-located with FOIS 2026: 21-22 September 2026 </li>\n'+
 '<li> FOMI workshop day: TBD </li>\n'
