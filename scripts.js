@@ -31,7 +31,7 @@ const organizers = [
     { name: "Emilio M. Sanfilippo", email: "emilio.sanfilippo@cnr.it" },
     { name: "Walter Terkaj", email: "walter.terkaj@cnr.it" },
 ]
-const committeeList = ''
+const committeeList = 
 
 '<li>Alessandro Oltramari, Bosch, USA</li>' +
 '<li>Alessandro Umbrico, CNR-STIIMA, Italy</li>' +
