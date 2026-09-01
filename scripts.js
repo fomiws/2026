@@ -5,7 +5,7 @@ const year = 2026;
 const month = "September";
 const days = "21";
 const place = "Vitória, Brazil";
-const registrationLink = "";
+const registrationLink = "https://foisconference.org/location/";
 const uploadPapersLink = "https://easychair.org/my/conference?conf=fois2026"
 const JOWOlink = "http://iaoa.org/jowo/";
 
@@ -14,7 +14,7 @@ const importantDates =
 '<li> Notification of acceptance:  15 July 2026 </li>\n' +
 '<li> Camera-ready submission: 31 July 2026 </li>\n'+
 '<li> JOWO workshop days co-located with FOIS 2026: 21-22 September 2026 </li>\n'+
-'<li> FOMI workshop day: 21 September 2026 </li>\n'
+'<li> <b>FOMI workshop day: 21 September 2026 </b></li>\n'
 
 
 const events = [ // Array of date and text pairs
